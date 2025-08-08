@@ -1,2 +1,2 @@
-# Aero-Portfolio-S25
-Collection of projects finished this summer to bolster my engineering design skills
+# Aero Engineering Portfolio
+CAD, ANSYS, MATLAB, and Excel artifacts for aircraft & rocket concepts.
